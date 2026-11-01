@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Iker%20Acevedo&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20.NET%20%26%20Angular%20%7C%20Cloud%20%26%20DevOps%20%7C%20Embedded%20%26%20IoT&descAlignY=60&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Iker%20Acevedo&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20-%20.NET%20and%20Angular%20-%20Cloud%20and%20DevOps%20-%20Embedded%20and%20IoT&descAlignY=60&descSize=18" alt="header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2C9FD9&center=true&vCenter=true&width=700&lines=Leading+.NET+%2B+Angular+teams;Automating+everything+with+Azure+Pipelines+%2B+Terraform;Designing+decoupled%2C+complex+systems;Building+bare-metal+OSs+on+ESP32+for+fun)](https://git.io/typing-svg)
 
@@ -88,8 +88,6 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ikeracevedo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikeracevedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com?user=Ikeracevedo&theme=tokyonight&hide_border=true" alt="streak"/>
 
