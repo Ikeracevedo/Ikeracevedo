@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ikeracevedo/Ikeracevedo/main/assets/header.svg" alt="Iker Acevedo - Tech Lead" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&height=40&lines=Leading+.NET+%2B+Angular+teams;Automating+delivery+with+Azure+Pipelines+%2B+Terraform;Designing+decoupled%2C+scalable+systems;Using+AI+as+a+co-pilot+to+build+faster+and+learn+every+day)](https://github.com/Ikeracevedo)
+
 </div>
 
 ## 👋 About me
@@ -127,6 +129,7 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/Ikeracevedo/Ikeracevedo/main/assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
+
 
 
 
