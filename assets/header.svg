@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#061a4d"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <clipPath id="shape">
+      <path d="M0,0 H1000 V196 C860,238 720,160 520,192 C320,224 160,168 0,208 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="1000" height="240" fill="url(#bg)"/>
+    <path d="M0,150 C200,120 350,200 560,170 C760,140 880,100 1000,140 V240 H0 Z" fill="#ffffff" fill-opacity="0.07"/>
+    <path d="M0,175 C180,150 380,215 590,185 C790,155 900,140 1000,170 V240 H0 Z" fill="#ffffff" fill-opacity="0.10"/>
+  </g>
+  <text x="500" y="104" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Iker Acevedo</text>
+  <text x="500" y="146" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#dbeafe">Tech Lead  ·  .NET &amp; Angular  ·  Cloud &amp; DevOps  ·  AI-assisted engineering</text>
+</svg>
