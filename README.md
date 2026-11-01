@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2a6f,100:2563eb&height=220&section=header&text=Iker%20Acevedo&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Tech%20Lead%20-%20.NET%20and%20Angular%20-%20Cloud%20and%20DevOps%20-%20AI-assisted%20engineering&descAlignY=58&descSize=18" alt="Iker Acevedo - Tech Lead"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:061a4d,100:1d4ed8&height=230&section=header&text=Iker%20Acevedo&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Tech%20Lead%20-%20.NET%20and%20Angular%20-%20Cloud%20and%20DevOps%20-%20AI-assisted%20engineering&descAlignY=62&descSize=18" alt="Iker Acevedo - Tech Lead"/>
 
 </div>
 
@@ -124,7 +124,8 @@ flowchart LR
 
 *Always happy to talk about .NET, cloud, DevOps and AI-assisted engineering.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0b2a6f&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1d4ed8,100:061a4d&height=100&section=footer" alt="footer"/>
 
 </div>
+
 
