@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:1e3a8a,100:06b6d4&height=220&section=header&text=Iker%20Acevedo&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=36&desc=Tech%20Lead%20-%20.NET%20and%20Angular%20-%20Cloud%20and%20DevOps%20-%20AI-assisted%20engineering&descAlignY=58&descSize=18" alt="Iker Acevedo - Tech Lead"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:10b981&height=220&section=header&text=Iker%20Acevedo&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Tech%20Lead%20-%20.NET%20and%20Angular%20-%20Cloud%20and%20DevOps%20-%20AI-assisted%20engineering&descAlignY=58&descSize=18" alt="Iker Acevedo - Tech Lead"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Leading+.NET+%2B+Angular+teams;Automating+delivery+with+Azure+Pipelines+%2B+Terraform;Designing+decoupled%2C+scalable+systems;Using+AI+to+build+faster%2C+better+and+learn+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Leading+.NET+%2B+Angular+teams;Automating+delivery+with+Azure+Pipelines+%2B+Terraform;Designing+decoupled%2C+scalable+systems;Using+AI+to+build+faster%2C+better+and+learn+every+day)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iker_Acevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-acevedo-vargas-625079319/)
-[![Email](https://img.shields.io/badge/Email-acevedo__0413%40hotmail.com-0b1220?style=for-the-badge&logo=microsoftoutlook&logoColor=38bdf8)](mailto:acevedo_0413@hotmail.com)
+<a href="https://www.linkedin.com/in/iker-acevedo-vargas-625079319/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/Ikeracevedo"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="44" alt="GitHub"/></a>
+
+✉️ **acevedo_0413@hotmail.com**
 
 </div>
 
@@ -63,12 +64,12 @@ Fuera del trabajo me meto a bajo nivel: firmware bare-metal, redes mesh IoT y al
 
 <br/>
 
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0b1220?style=flat-square&logo=azuredevops&logoColor=38bdf8)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0b1220?style=flat-square&logo=microsoftsqlserver&logoColor=38bdf8)
-![MQTT](https://img.shields.io/badge/MQTT-0b1220?style=flat-square&logo=mqtt&logoColor=38bdf8)
-![ESP32](https://img.shields.io/badge/ESP32-0b1220?style=flat-square&logo=espressif&logoColor=38bdf8)
-![Claude](https://img.shields.io/badge/Claude-0b1220?style=flat-square&logo=anthropic&logoColor=38bdf8)
-![Codex](https://img.shields.io/badge/Codex-0b1220?style=flat-square&logo=openai&logoColor=38bdf8)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0f172a?style=flat-square&logo=azuredevops&logoColor=a78bfa)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=a78bfa)
+![MQTT](https://img.shields.io/badge/MQTT-0f172a?style=flat-square&logo=mqtt&logoColor=a78bfa)
+![ESP32](https://img.shields.io/badge/ESP32-0f172a?style=flat-square&logo=espressif&logoColor=a78bfa)
+![Claude](https://img.shields.io/badge/Claude-0f172a?style=flat-square&logo=anthropic&logoColor=a78bfa)
+![Codex](https://img.shields.io/badge/Codex-0f172a?style=flat-square&logo=openai&logoColor=a78bfa)
 
 </div>
 
@@ -106,7 +107,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ikeracevedo&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Ikeracevedo&hide_border=true&background=0D1117&ring=8B5CF6&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak"/>
 
 </div>
 
@@ -121,7 +122,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1e3a8a,100:0b1220&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:2563eb,100:7c3aed&height=100&section=footer" alt="footer"/>
 
 </div>
+
 
