@@ -107,3 +107,4 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer"/>
 
 </div>
+
